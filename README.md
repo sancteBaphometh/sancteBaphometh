@@ -6,7 +6,7 @@
 
 I'm machine learning developer:
 - 🐍 Professionaly interesting in python and data science
-- 🤓 Responsible and independent
+- 🤓 Responsible and reliable
 - 🎸 I play music in my free time
 
 ---
