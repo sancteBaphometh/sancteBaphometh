@@ -45,6 +45,6 @@ I'm a machine learning developer:
 
 ## 🖥️ My projects:
 
-|Название проекта| Описание проекта| Стек|
+|Project name|Description|Stack|
 |----------------|-----------------|-----|
-|[Рекомендательная система](https://github.com/sancteBaphometh/KC_final_project)|Система, которая выдаёт 5 наиболее релевантных для пользователя постов, основываясь на его действиях с другими постами. Была обучена модель градиентного бустинга на решающих деревьях и создан сервис с помощью FastAPI.|**Python** **Numpy** **Pandas** **Sklearn** **CatBoost** **FastAPI** **SQLAlchemy**|
+|[Recommendation system](https://github.com/sancteBaphometh/KC_final_project)|A system that gives out the 5 most relevant posts for the user, based on his actions with other posts. A gradient boosting model on decision trees was trained and a service was created using FastAPI.|**Python** **Numpy** **Pandas** **Sklearn** **CatBoost** **FastAPI** **SQLAlchemy**|
