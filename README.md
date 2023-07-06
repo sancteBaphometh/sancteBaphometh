@@ -4,7 +4,7 @@
 
 ## 💾 About me:
 
-I'm machine learning developer:
+I'm a machine learning developer:
 - 🐍 Professionaly interesting in python and data science
 - 🤓 Responsible and reliable
 - 🎸 I play music in my free time
