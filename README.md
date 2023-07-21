@@ -47,5 +47,5 @@ I'm a machine learning developer:
 
 |Project name|Description|Stack|
 |----------------|-----------------|-----|
-|[Recommendation system](https://github.com/sancteBaphometh/KC_final_project)|A system that gives out the 5 most relevant posts for the user, based on his actions with other posts. A gradient boosting model on decision trees was trained and a service was created using FastAPI.|**Python** **Numpy** **Pandas** **Sklearn** **CatBoost** **FastAPI** **SQLAlchemy**|
-|[Cigarette Detector](https://github.com/sancteBaphometh/cigarette_detector)|Two scripts and a trained YOLOv8 model for detecting cigarettes in images and videos.|**Python** **YOLO** **CV** **matplotlib**|
+|[Recommendation system](https://github.com/sancteBaphometh/KC_final_project)|A system that gives out the 5 most relevant posts for the user, based on his actions with other posts. A gradient boosting model on decision trees was trained and a service was created using FastAPI.|**Python**, **Numpy**, **Pandas**, **Sklearn**, **CatBoost**, **FastAPI**, **SQLAlchemy**|
+|[Cigarette Detector](https://github.com/sancteBaphometh/cigarette_detector)|Two scripts and a trained YOLOv8 model for detecting cigarettes in images and videos.|**Python**, **YOLO**, **CV**, **matplotlib**|
