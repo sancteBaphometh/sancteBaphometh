@@ -4,10 +4,9 @@
 
 ## 💾 About me:
 
-I'm a machine learning developer:
+I'm a python and machine learning developer:
 - 🐍 Professionaly interesting in python and data science
 - 🤓 Responsible and reliable
-- 🎶 Absolutely in love with music
 ---
 
 ## 🔗 How to connect with me:
